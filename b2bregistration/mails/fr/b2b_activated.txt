@@ -1,0 +1,5 @@
+
+[{shop_url}] 
+
+Hi {first_name} {last_name}, Your account is approved.
+

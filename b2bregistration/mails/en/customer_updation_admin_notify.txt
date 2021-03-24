@@ -1,0 +1,13 @@
+
+[{shop_url}] 
+
+Hi ,
+{first_name} {last_name} has changed his account data at {shop_name} and pending validation. 
+
+Here are your new customer details:
+
+E-MAIL ADDRESS: {email}
+
+{shop_name} [{shop_url}] powered by
+PrestaShop(tm) [http://www.prestashop.com/] 
+
